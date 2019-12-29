@@ -3,8 +3,8 @@
   <!-- Device common tree -->
   <project name="sky-vega-dev-team/device_pantech_msm8974-common" path="device/pantech/msm8974-common" remote="github" revision="pie" />
   <!-- Device trees -->
-  <project name="sky-vega-dev-team/android_device_pantech_ef59" path="device/pantech/ef59" remote="github" revision="pie" />
-  <project name="sky-vega-dev-team/device_pantech_ef63" path="device/pantech/ef63" remote="github" revision="pie" />
+  <project name="sky-vega-dev-team/android_device_pantech_ef59" path="device/pantech/ef59" remote="github" revision="lineage-16.0" />
+  <project name="sky-vega-dev-team/device_pantech_ef63" path="device/pantech/ef63" remote="github" revision="lineage-16.0" />
   <project name="sky-vega-dev-team/android_device_pantech_ef65" path="device/pantech/ef65" remote="github" revision="lineage-16.0" />
   <!-- Kernel -->
   <project name="sky-vega-dev-team/kernel_pantech_msm8x74" path="kernel/pantech/msm8x74" remote="github" revision="pie" />
