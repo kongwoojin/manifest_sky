@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Device common tree -->
-  <project name="sky-vega-dev-team/device_pantech_msm8974-common" path="device/pantech/msm8974-common" remote="github" revision="pie" />
+  <project name="sky-vega-dev-team/device_pantech_msm8974-common" path="device/pantech/msm8974-common" remote="github" revision="lineage-17.1" />
   <!-- Device trees -->
-  <project name="sky-vega-dev-team/android_device_pantech_ef59" path="device/pantech/ef59" remote="github" revision="lineage-16.0" />
-  <project name="sky-vega-dev-team/device_pantech_ef63" path="device/pantech/ef63" remote="github" revision="lineage-16.0" />
-  <project name="sky-vega-dev-team/android_device_pantech_ef65" path="device/pantech/ef65" remote="github" revision="lineage-16.0" />
+  <project name="sky-vega-dev-team/android_device_pantech_ef59" path="device/pantech/ef59" remote="github" revision="lineage-17.1" />
+  <project name="sky-vega-dev-team/device_pantech_ef63" path="device/pantech/ef63" remote="github" revision="lineage-17.1" />
+  <project name="sky-vega-dev-team/android_device_pantech_ef65" path="device/pantech/ef65" remote="github" revision="lineage-17.1" />
   <!-- Kernel -->
-  <project name="sky-vega-dev-team/kernel_pantech_msm8x74" path="kernel/pantech/msm8x74" remote="github" revision="pie" />
+  <project name="sky-vega-dev-team/kernel_pantech_msm8x74" path="kernel/pantech/msm8x74" remote="github" revision="ten" />
   <!-- Vendor -->
-  <project name="sky-vega-dev-team/vendor_pantech" path="vendor/pantech" remote="github" revision="pie" />
+  <project name="sky-vega-dev-team/vendor_pantech" path="vendor/pantech" remote="github" revision="lineage-17.1" />
   <!-- ETC -->
-  <project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="lineage-15.1" />
-  <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-16.0" />
+  <project name="sky-vega-dev-team/packages_apps_VpenDetect" path="packages/apps/VpenDetect" remote="github" revision="lineage-17.1" />
 </manifest>
