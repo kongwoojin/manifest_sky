@@ -11,6 +11,4 @@
   <project name="sky-vega-dev-team/kernel_pantech_msm8x74" path="kernel/pantech/msm8x74" remote="github" revision="ten" />
   <!-- Vendor -->
   <project name="sky-vega-dev-team/vendor_pantech" path="vendor/pantech" remote="github" revision="lineage-17.1" />
-  <!-- ETC -->
-  <project name="sky-vega-dev-team/packages_apps_VpenDetect" path="packages/apps/VpenDetect" remote="github" revision="lineage-17.1" />
 </manifest>
