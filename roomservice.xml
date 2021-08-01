@@ -8,7 +8,7 @@
   <project name="sky-vega-dev-team/device_pantech_ef63" path="device/pantech/ef63" remote="github" revision="lineage-17.1" />
   <project name="sky-vega-dev-team/android_device_pantech_ef65" path="device/pantech/ef65" remote="github" revision="lineage-17.1" />
   <!-- Kernel -->
-  <project name="sky-vega-dev-team/kernel_pantech_msm8x74" path="kernel/pantech/msm8x74" remote="github" revision="ten" />
+  <project name="sky-vega-dev-team/kernel_pantech_msm8x74" path="kernel/pantech/msm8x74" remote="github" revision="10" />
   <!-- Vendor -->
   <project name="sky-vega-dev-team/vendor_pantech" path="vendor/pantech" remote="github" revision="lineage-17.1" />
 </manifest>
